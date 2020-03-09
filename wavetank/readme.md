@@ -1,7 +1,7 @@
 # Coastal demonstration wavetank
 
 # History
-2015 CDT project CDT students Will Booker, Thomas Goodfellow and Jacon von Alwon supervised by Duncan Borman and Onno Bokhove and commissioned by JBA Trust. Wave tank demonstration showing the impact of coastal defences on flood risk: Youtube site (5.7M hits on 09-03-2020) https://www.youtube.com/watch?v=3yNoy4H2Z-o
+2015 CDT project CDT students Will Booker, Thomas Goodfellow and Jacon von Alwon supervised by Duncan Borman and Onno Bokhove and commissioned by JBA Trust. Wave tank demonstration showing the impact of coastal defences on flood risk: YouTube movie has 5.7M hits (on 09-03-2020) https://www.youtube.com/watch?v=3yNoy4H2Z-o
 
 Add group report and three individual reports; to do.
 
