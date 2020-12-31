@@ -1,6 +1,6 @@
 # Rotating table experiments
 
-Sample report uploaded: rotatingtabkewriteup2019.pdf
+Sample report uploaded, includes health and safety instructions in the appendix: rotatingtabkewriteup2019.pdf
 
 # GoPro Hero 3+ instructions
 
