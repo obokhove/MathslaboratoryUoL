@@ -1,8 +1,8 @@
-Ardiono Instructions
+# Arduino Instructions
 
 Via Thomas Goodfellow (2016!); may need updates.
 
-Electronic components --see .txt file
+## Electronic components --see .txt file
 
 NOTE: Motors from RS components, everything else from rapidonline.com (trusted).
 
@@ -49,6 +49,7 @@ Websites:
  1 - http://www.rapidonline.com/Electrical-Power/Basetech-BT-305-Single-Output-150W-Variable-Bench-PSU-0-30VDC-0-5A-52-1977
 
  2 - http://www.rapidonline.com/Electrical-Power/Mini-Regulated-Voltage-Adjustable-Psu-85-1683?sourceRefKey=B5T3Cxrzg&filterSearchScope=1
+ 
 ----------------------------------
   		Cables
 ----------------------------------
