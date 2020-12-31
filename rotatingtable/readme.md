@@ -9,6 +9,8 @@ Top button: start action & confirm (roughly) Front button: on (off is pressing 8
 
 ## Set-up wifi
 
+For wifi see: https://www.youtube.com/watch?v=WqEzyWMFQtg
+
 For remote connection to laptop (here MacBook Pro).
 On: side button. Then press side/gront button to tool (top for tool menu) goto wifi then press gopro app (use fron button then top button to confirm).
 Wifi starts flasing; goto laptop and looking for GoPro name (mine: obokhove) and connect password (gjtifs333 [is code so ask me]).
