@@ -13,6 +13,9 @@ See in the appropriately named folder for extensive insr=truction by Thomas Good
 
 ## Overview via images (photos by TG)
 
+![don summer](figs/WP_20150604_001.jpg) | ![don winter](figs/WP_20150604_002.jpg) 
+:-------------------------:|:-------------------------:
+
 <img src="figs/WP_20150604_001.jpg" width="540">
 
 <img src="figs/WP_20150604_002.jpg" width="540">
