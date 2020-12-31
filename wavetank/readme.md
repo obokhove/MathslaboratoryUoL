@@ -16,14 +16,9 @@ See in the appropriately named folder for extensive insr=truction by Thomas Good
 ![don summer](figs/WP_20150604_001.jpg) | ![don winter](figs/WP_20150604_002.jpg) 
 :-------------------------:|:-------------------------:
 
-<img src="figs/WP_20150604_001.jpg" width="540">
+![don summer](figs/WP_20150604_003.jpg) | ![don winter](figs/WP_20150803_002.jpg) 
+:-------------------------:|:-------------------------:
 
-<img src="figs/WP_20150604_002.jpg" width="540">
+![don summer](figs/WP_20150817_005.jpg) | ![don winter](figs/WP_20150821_007.jpg) 
+:-------------------------:|:-------------------------:
 
-<img src="figs/WP_20150604_003.jpg" width="540">
-
-<img src="figs/WP_20150803_002.jpg" width="540">
-
-<img src="figs/WP_20150817_005.jpg" width="540">
-
-<img src="figs/WP_20150821_007.jpg" width="540">
