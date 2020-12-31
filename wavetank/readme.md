@@ -12,4 +12,16 @@ See in the appropriately named folder for extensive insr=truction by Thomas Good
 # Usage
 06-03-2020 out; <used where>; XX-XX-2020 in.
 
+# Overview via images (photos by TG)
 
+<img src="figs/WP_20150604_001.jpg" width="540">
+
+<img src="figs/WP_20150604_002.jpg" width="540">
+
+<img src="figs/WP_20150604_003.jpg" width="540">
+
+<img src="figs/WP_20150803_002.jpg" width="540">
+
+<img src="figs/WP_20150817_005.jpg" width="540">
+
+<img src="figs/WP_20150821_007.jpg" width="540">
