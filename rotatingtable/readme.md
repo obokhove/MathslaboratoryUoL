@@ -1,6 +1,6 @@
-Image pending
+# Rotating table experiments
 
-Sample report pending
+Sample report uploaded: rotatingtabkewriteup2019.pdf
 
 # GoPro Hero 3+ instructions
 
