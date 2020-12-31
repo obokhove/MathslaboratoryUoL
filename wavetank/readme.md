@@ -5,6 +5,10 @@
 
 Note the group report (Thomas GoodFellow, Will Booker and Jacob von Alwon) and two individual reports (Thomas Goodfellow and Jacob von Alwaon) of 2015.
 
+# Design instructions including Arduino
+
+See in the appropriately named folder for extensive insr=truction by Thomas Goodfellow.
+
 # Usage
 06-03-2020 out; <used where>; XX-XX-2020 in.
 
