@@ -1,5 +1,8 @@
 # Hele Shaw beach
 
+Pending but see the extensive references below.
+
+# Instructions for UoL demonstration set-up
 Pending.
 
 ## References
