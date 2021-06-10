@@ -5,3 +5,12 @@ Instructions (made hitherto) of the following fluid dynamics' experiments are fo
 - Hele Shaw beach formation;
 - coastal wavetank demonstrations; and,
 - rotating table for small-scale demonstrations.
+
+# Equipment
+- Standard ST-921 multimeter
+- FeelTech Waveform Generator
+- 2 power variable power supplies DC; Basetech BT-305
+- drill
+- various crocodile connectors
+- Big pump
+- Various acquarium pumps (part of Wetropolis)
