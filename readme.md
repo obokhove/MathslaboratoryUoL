@@ -7,10 +7,12 @@ Instructions (made hitherto) of the following fluid dynamics' experiments are fo
 - rotating table for small-scale demonstrations.
 
 # Equipment
-- Standard ST-921 multimeter (eg measure inductance: https://www.youtube.com/watch?v=iQQe8uSZ8xc)
+- Standard ST-921 multimeter & Astro AI DT132A multimeter (eg measure inductance: https://www.youtube.com/watch?v=iQQe8uSZ8xc)
 - FeelTech Waveform Generator
 - 2 power variable power supplies DC; Basetech BT-305
 - drill
 - various crocodile connectors
 - Big pump
 - Various acquarium pumps (part of Wetropolis)
+- MISSING Logitec Webcam
+- NEEDED oscilloscope
