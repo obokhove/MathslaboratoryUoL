@@ -16,4 +16,4 @@ Instructions (made hitherto) of the following fluid dynamics' experiments are fo
 - Various acquarium pumps (part of Wetropolis)
 - MISSING Logitec Webcam
 - NEEDED oscilloscope
-- Option: LCR meter
+- LCR meter has been ordered.
