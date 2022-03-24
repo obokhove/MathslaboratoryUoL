@@ -1,3 +1,6 @@
+Onno Wetropolis for EPSRC site visit (possibly 25-03 & 28-03) 29-03, 31-03 (visit); lights will go on; please clean up a bit.
+
+
 ## Maths Laboratory experiments
 
 Instructions (made hitherto) of the following fluid dynamics' experiments are found in the respective folders:
