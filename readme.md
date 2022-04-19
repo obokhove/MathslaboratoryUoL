@@ -21,3 +21,7 @@ Instructions (made hitherto) of the following fluid dynamics' experiments are fo
 - MISSING Logitec Webcam
 - NEEDED oscilloscope
 - LCR meter has been ordered.
+- 4 retort stands, boss heads, clamps
+- 300mm diam. cylindrical glass tank with plastic removable bottom
+- 16kg, 6kg and 2kg magnets
+- 4*2
