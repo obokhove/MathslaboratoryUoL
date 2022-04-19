@@ -24,4 +24,11 @@ Instructions (made hitherto) of the following fluid dynamics' experiments are fo
 - 4 retort stands, boss heads, clamps
 - 300mm diam. cylindrical glass tank with plastic removable bottom
 - 16kg, 6kg and 2kg magnets
-- 4*2
+- 4x200mm and 6x100mm G clamps
+- clear plastic tubing and tube clamps
+- Eutech CON 450 conductivity metre, min 0mS/cm, max 200mS/cm (manual at http://www.eutechinst.com/sup-manuals.html)
+- 4x5 litre plastic jugs with ml scale
+- 4x 12.5mm diameter brass rods
+- 12x 100ml measuring cylinders
+- 12x 100ml syringes
+- wooden stand for conductivity probe, with mechanism to raise and lower
