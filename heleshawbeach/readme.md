@@ -1,6 +1,8 @@
 # Hele Shaw beach
 
-Pending but see the extensive references below.
+Video Seoul 2014: https://www.youtube.com/watch?v=X4Pw2sFpZ1g
+
+Information pending but see the extensive references below.
 
 ## Instructions for UoL demonstration set-up
 Pending.
