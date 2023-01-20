@@ -1,6 +1,9 @@
 # Coastal demonstration wavetank
 By Onno Bokhove using material from Will Booker, Thomas Goodfellow and Jacon von Alwon.
 
+20-01-2023: testing.
+Notes: 2A 15V maximum. set these as maxima, then press operate on power supply (button "output" top right). Note that current settings let the paddle make one or two swings only, not continuously.
+
 ## History
 2015 CDT project CDT students Will Booker, Thomas Goodfellow and Jacon von Alwon supervised by Duncan Borman and Onno Bokhove and commissioned by JBA Trust. Wave tank demonstration showing the impact of coastal defences on flood risk: YouTube movie with 7M hits (on 31-12-2020) https://www.youtube.com/watch?v=3yNoy4H2Z-o
 
