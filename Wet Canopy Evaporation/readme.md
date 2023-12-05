@@ -68,7 +68,10 @@ Perform a test run to verify spray alignment and check for leaks.
 - Keep towels ready for any spray overspill or tap leakages.
 - If sprayers malfunction replace them using the spares in the provided box. The sprays are connected to the tubing with John Guest style push-fit connectors.
 
-## Improvement list
+## Demonstrator Experience (26 September 2023)
+The tank was used during the induction event for the 2023 Fluid Dynamics CDT cohort at Weetwood Hall on 26 September 2023. The tank ran well enough for the demonstration and engagement from the cohort was good with a number of questions. Concerns regarding the volume of the unit inhibiting the explanation were alleviated but it is still best to explain the science in advance of starting the demo.
+
+A number of improvements for this prototype and for a refined final version are listed below.
 
 ### Demonstration improvements
 - **Poster**
