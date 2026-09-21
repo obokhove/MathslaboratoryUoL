@@ -12,7 +12,7 @@ The Wet Canopy Evaporation Tank serves as a demonstration of the potential evapo
 
 ## Component list
  - 1x Tank
- - 1x hairdryer
+ - 2x hairdryer, one for each side.
  - 1x Pump unit
  - 1x Inlet tubing
  - 1x Spray array (4x sprays)
