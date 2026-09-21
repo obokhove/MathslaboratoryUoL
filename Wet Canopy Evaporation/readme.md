@@ -37,7 +37,7 @@ Towels and cloths are also needed for drying up.
 - Saturate the canopy sponge in a jug of water.
 - Saturate the interior surfaces of both tank sides using the spray bottle.
 - Position the sponge holder and sponge in one section ensuring an even canopy surface.
-- Use clamps to secure wooden supports to the tank for the sprays.
+- Use clamps to secure wooden supports to the tank for the sprays. (OB 21-09-2026: no clamps but use beams across.)
 - Align the sprays with the tank and canopy centre. Avoid angling the sprays towards the hairdryer inlet.
 - Attach the hairdryers to the diffuser heads at the tank ends.
 - Elevate the tank at the hairdryer end using wooden chocks to encourage water flow.
@@ -50,7 +50,7 @@ Perform a test run to verify spray alignment and check for leaks.
 ### Operation
 - Ensure the tank's outlet valves are open.
 - Close the wall collection valves (outer two valves).
-- Turn on the spray system by holding down the on button.
+- Turn on the spray system by holding down the on button. (OB 21-09-2026: needs to be held down, no idea how to program it?)
 - Turn on the hairdryers at maximum speed and heat.
 - Monitor the volume collected in the measuring cylinders.
 
@@ -86,7 +86,7 @@ A number of improvements for this prototype and for a refined final version are 
   <br> The water can collect in the space below the angled tank floor, skewing the result.
 
 - **Test spray heads**
-  <br> Spray head performance is variable, ocassionally one doesn't mist but sprays a jet.
+  <br> Spray head performance is variable, occassionally one doesn't mist but sprays a jet. OB 21-09-2026: These are reptile-basin misters; they can be cleaned by disassembling the tip (press ring in to disassemble), then soak in white vinegar to declog (e.g., overnight; then remove vinegar, clean with water by shaking tops, reassemble. Flow controllers can be added to ensure even flow on either side and have a measuring thereof. Same with catching the water collect. Automate to use for Data Assimilation in a numerical model.
 
 ### Final Tank design
 - **Robust support for sprays**
