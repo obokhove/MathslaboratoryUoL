@@ -1,4 +1,4 @@
-# Wet Canopy Evaporation outreach experiment (by Robin Furze and Danny Blundell)
+# Wet Canopy Evaporation outreach experiment (by Robin Furze and Danny Blundell with Onno Bokhove, Duncan Borman and Andrew Ross)
 
 The Wet Canopy Evaporation Tank serves as a demonstration of the potential evaporative losses from tree canopies during rainfall. One side of the tank contains an aquarium filter, simulating a tree canopy. Water is consistently sprayed into both sections of the tank, with airflow provided hairdryers on either side. Over an experiment of five minutes, participants visualise the quantity of rain lost to evaporation by comparing the runoff collected in measuring cylinders from both tank compartments. Depending on environmental conditions in the demonstration room, losses are approximately 10 - 20%.
 
